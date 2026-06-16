@@ -95,3 +95,9 @@
 * **Пудочев Алексей** — CNN
 * **Ткачева Вера** — MLP
 * **Саев Матвей** — бизнес-анализ, inference pipeline, MVP, README
+
+**Источники данных:**
+- https://www.kaggle.com/datasets/michaelfumery/enopenfoodfactsorgproducts?select=cleaned_openfoodfacts.csv
+- https://www.kaggle.com/datasets/imbikramsaha/food11
+
+
